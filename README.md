@@ -13,26 +13,14 @@
   </div>
 </a>
 
-- **Fun fact:** In my free time, I play as _VTuber_ named **_Chii Kozume_**, who makes livestreams on [Twitch](https://www.twitch.tv/chiikozume).
+- **Fun fact:** In my free time, I play as a _VTuber_ named **_Chii Kozume_**, who makes livestreams on [Twitch](https://www.twitch.tv/chiikozume).
 
 - Feel free to ask me anything about **_coding_** and my **_live stream_**.
 
-<div style="display: inline_block"><br>
-  <img align="top-right" alt="ChiiKozume-pic" height="150" src="https://media.discordapp.net/attachments/821787633817878579/1106674398729076817/coracao_hdCODE.png"></a>
-    
-  <picture align="left">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=dracula"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true" colored/>
-  </picture>
-  <img align="top-right" alt="Cleok3-pic" height="150" src="https://media.discordapp.net/attachments/821787633817878579/1106649737249181696/Emote_Cleo_oi.png">
-</div>
+![CleoK3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical&count_private=true&hide=stars,contribs,prs,issues)
+![CleoK3's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical)
+
+<img align="right" alt="Cleok3-pic" height="150" src="https://media.discordapp.net/attachments/821787633817878579/1106649737249181696/Emote_Cleo_oi.png">
 <div style="display: inline_block">  
   <img align="center" alt="Cleok3-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Cleok3-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -49,8 +37,9 @@
 </div>
 
 
+##
 
-<div><br>  
+<div>
   <a href="https://www.linkedin.com/in/cleosouzalima/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
