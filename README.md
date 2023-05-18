@@ -23,8 +23,6 @@
 
 **Application and Data:**
 
-<img align="right" alt="Cleok3-pic" height="150" src="https://media.discordapp.net/attachments/821787633817878579/1106649737249181696/Emote_Cleo_oi.png">
-
   <code><img alt="Cleok3-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
   <code><img alt="Cleok3-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img alt="Cleok3-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
@@ -39,7 +37,6 @@
   <code><img alt="Cleok3-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
   <code><img alt="Cleok3-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>
   
-  
 
 <br>
 
@@ -47,6 +44,8 @@
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+
+<img align="right" alt="Cleok3-pic" height="150" src="https://media.discordapp.net/attachments/821787633817878579/1106649737249181696/Emote_Cleo_oi.png">
 
 <br>
 
