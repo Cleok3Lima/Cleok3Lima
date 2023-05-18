@@ -4,9 +4,8 @@
 
 <!-- ${\color{#fa6eb4}Frontend \space Developer}$ & ${\color{#fa6eb4}Streamer}$ -->
 
-- I’m currently working at [GamersClub](https://gamersclub.gg) as a <img align="center" height="25" src="https://img.shields.io/badge/-Software%20Engineer-yellow?style=flat">.
+- Always studying <code>React</code>, <code>Next JS</code>, <code>Node.js</code>, the best **_patterns_** and **_algorithms_** in **Javascript/Typescript**.
     
-
 - <a>
   <div>
     I’m currently learning <img align="center" alt="Cleok3-Js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
@@ -22,23 +21,23 @@
 
 <img align="right" alt="Cleok3-pic" height="150" src="https://media.discordapp.net/attachments/821787633817878579/1106649737249181696/Emote_Cleo_oi.png">
 <div style="display: inline_block">  
-  <img align="center" alt="Cleok3-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Cleok3-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Cleok3-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Cleok3-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="Cleok3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cleok3-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cleok3-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cleok3-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cleok3-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Cleok3-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Cleok3-Styled-components" height="30" width="40" src="https://img.shields.io/badge/-<💅>-fa6eb4?style=for-the-badge">
+  <code><img alt="Cleok3-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
+  <code><img alt="Cleok3-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img alt="Cleok3-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
+  <code><img alt="Cleok3-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
+  <code><img alt="Cleok3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img alt="Cleok3-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="Cleok3-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img alt="Cleok3-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img alt="Cleok3-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
+  <code><img alt="Cleok3-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></code>
+  <code><img alt="Cleok3-Styled-components" height="30" width="40" src="https://img.shields.io/badge/-<💅>-fa6eb4?style=for-the-badge"></code>
 </div>
 
 
 ##
 
+${\color{#fa6eb4}You \space can \space reach \space me \space with \space the \space links \space below:}$
 <div>
   <a href="https://www.linkedin.com/in/cleosouzalima/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
