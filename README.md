@@ -2,6 +2,8 @@
 
 <img align="center" alt="Cleok3-Styled-components" height="50" src="https://img.shields.io/badge/Frontend%20Developer%20-%26%20Streamer-fa6eb4?style=flat">
 
+<br>
+
 <img align="right" alt="Cleok3-Styled-components" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical">
 
 - Always studying <code>React</code>, <code>Next JS</code>, <code>Node.js</code>, the best **_patterns_** and **_algorithms_** in **Javascript/Typescript**.
@@ -16,7 +18,8 @@
 
 - Feel free to ask me anything about **_coding_** and my **_live stream_**. 
 
-
+<br>
+<br>
 <!--![CleoK3's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical)-->
 
 ## My Development Stack
