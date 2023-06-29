@@ -1,10 +1,10 @@
 <h1 align="left">Hi!, I'm Cléo Lima</h1>
 
-<img align="center" alt="Cleok3-Styled-components" height="50" src="https://img.shields.io/badge/Frontend%20Developer%20-%26%20Streamer-fa6eb4?style=flat">
+<img align="center" alt="Cleok3-Dev-Streamer" height="50" src="https://img.shields.io/badge/Frontend%20Developer%20-%26%20Streamer-fa6eb4?style=flat">
 
 <br>
 
-<img align="right" alt="Cleok3-Styled-components" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical">
+<img align="right" alt="Cleok3-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical">
 
 - Always studying <code>React</code>, <code>Next JS</code>, <code>Node.js</code>, the best **_patterns_** and **_algorithms_** in **Javascript/Typescript**.
     
