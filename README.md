@@ -48,7 +48,7 @@
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 
-<img align="right" alt="Cleok3-pic" height="150" src="https://media.discordapp.net/attachments/821787633817878579/1106649737249181696/Emote_Cleo_oi.png">
+<img align="right" alt="Cleok3-pic" height="250" src="https://www.cleolima.dev/cleolimadev.svg">
 
 <br>
 
