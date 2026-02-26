@@ -1,6 +1,6 @@
 <h1 align="left">Hi!, I'm Cléo Lima</h1>
 
-<img align="center" alt="Cleok3-Dev-Streamer" height="50" src="https://img.shields.io/badge/Frontend%20Developer%20-%26%20Streamer-fa6eb4?style=flat">
+<img align="center" alt="Cleok3-Dev-Streamer" height="50" src="https://img.shields.io/badge/Software%20Engineer%20-%20Fullstack-fa6eb4?style=flat">
 
 <br>
 
@@ -10,7 +10,7 @@
     
 - <a>
   <div>
-    I’m currently learning <img align="center" alt="Cleok3-Js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
+    I’m currently learning <img align="center" alt="Cleok3-Js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   </div>
 </a>
 
