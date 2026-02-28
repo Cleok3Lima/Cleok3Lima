@@ -4,60 +4,95 @@
 
 <br>
 
-<img align="right" alt="Cleok3-stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical">
+<img alt="Cleok3-stats" src="./profile/top-langs.svg" align="right">
 
-- Always studying <code>React</code>, <code>Next JS</code>, <code>Node.js</code>, the best **_patterns_** and **_algorithms_** in **Javascript/Typescript**.
+- Always studying <code>React</code>, <code>Next JS</code>, <code>Node.js</code> and the **_best practices_** for programming.
     
 - <a>
   <div>
-    I’m currently learning <img align="center" alt="Cleok3-Js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+    I’m currently learning 
+        <img align="center" alt="Java-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+        <img align="center" alt="Kotlin-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+        <img align="center" alt="Spring-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   </div>
 </a>
 
-- **Fun fact:** In my free time, I play as a _VTuber_ named **_Chii Kozume_**, who makes livestreams on [Twitch](https://www.twitch.tv/chiikozume).
+- **Fun fact:** I used to be a **_Counter-Strike pro-player_** in Brazil.
 
-- Feel free to ask me anything about **_coding_** and my **_live stream_**. 
+- Feel free to ask me anything about **_coding_** and my **_live stream_**.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <!--![CleoK3's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cleok3Lima&show_icons=true&langs_count=10&layout=donut&theme=radical)-->
 
 ## My Development Stack
 
-**Application and Data:**
+<img align="right" alt="Cleok3-pic" height="350" src="https://www.cleolima.dev/cleolimadev.svg">
 
-  <code><img alt="Cleok3-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-  <code><img alt="Cleok3-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img alt="Cleok3-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
-  <code><img alt="Cleok3-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
-  <code><img alt="Cleok3-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img alt="Cleok3-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img alt="Cleok3-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img alt="Cleok3-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img alt="Cleok3-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
-  <code><img alt="Cleok3-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></code>
-  <code><img alt="Cleok3-Styled-components" height="30" width="40" src="https://img.shields.io/badge/-<💅>-fa6eb4?style=for-the-badge"></code>
-  <code><img alt="Cleok3-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-  <code><img alt="Cleok3-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>
-  
+**Frontend:**
+
+  <code><img alt="NextJS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
+  <code><img alt="React-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img alt="AngularJS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
+  <code><img alt="Ts-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
+  <code><img alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img alt="Sass-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
+  <code><img alt="Bootstrap-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></code>
+  <code><img alt="Styled-components-icon" height="30" width="40" src="https://img.shields.io/badge/-<💅>-fa6eb4?style=for-the-badge"></code>
+  <code><img alt="Figma-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><img alt="NodeJS-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></code>
+  <code><img alt="Jest-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"></code>
 
 <br>
 
-**DevOps:**
+**Backend:**
 
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+  <code><img alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img alt="Java-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img alt="Kotlin-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"></code>
+  <code><img alt="Spring-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
 
-<img align="right" alt="Cleok3-pic" height="250" src="https://www.cleolima.dev/cleolimadev.svg">
+<br>
+
+**Observability:**
+
+  <code><img alt="Kibana-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"></code>
+  <code><img alt="Datadog-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg"></code>
+
+
+<br>
+
+**AI & Productivity:**
+
+  <code><img alt="Windsurf-icon" height="30" width="40" src="https://exafunction.github.io/public/brand/windsurf-white-symbol.svg"></code>
+  <code><img alt="Cursor-icon" height="30" src="https://cursor.com/assets/images/logo.svg"></code>
+  <code><img alt="Claude-icon" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/claude-color.svg"></code>
+  <code><img alt="Github-copilot-icon" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/githubcopilot.svg"></code>
+
+<br>
+
+**DevOps & Tools:**
+
+<code><img alt="GitHub-icon" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/icons/github.svg"/></code>
+<code><img alt="Git-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></code>
+<code><img alt="CI-CD-icon" height="30" width="40" src="https://www.svgrepo.com/show/372275/ci-cd.svg"/></code>
 
 <br>
 
 **Business Tools**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" alt="Jira"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack"/></code>
+<code><img alt="Notion-icon" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"/></code>
+<code><img alt="Jira-icon" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"/></code>
+<code><img alt="Trello-icon" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg"/></code>
+<code><img alt="Slack-icon" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"/></code>
 
 
 ##
